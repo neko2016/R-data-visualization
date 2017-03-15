@@ -26,7 +26,7 @@ geom_line(aes( y = sugarEx, colour="legend_1")) +
 geom_line(aes( y = riceIm, colour="legend_2")) + 
 #  label for y and x axis
 ylab (label = "y_axis_label") + 
-xlab (label = "y_axis_label") + 
+xlab (label = "x_axis_label") + 
 # legend title
 labs(colour = "") + 
 # chart title
