@@ -6,7 +6,7 @@ library(ggplot2)
 
 # set up working directory
 getwd()
-setwd("project_folder_path")
+setwd("project_folder")
 getwd()
 
 # read csv and save the data to sr
